@@ -7,4 +7,5 @@ if __name__ == '__main__':
         else:
             print(hehe)
     print("gun")
+    print("23234")
 
